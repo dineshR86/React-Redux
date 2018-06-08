@@ -14,7 +14,7 @@ export default class App extends Component {
       videos:[]
     };
     YTSearch({key:API_KEY,term:'surf board'},(videos)=>{
-      this.setState({videos:videos});
+      this.setState({videos});
     });
   }
 
