@@ -7,9 +7,13 @@ npm install youtube-api-search
 
 ````
 
-Further extension to this app i have showed the app on the sharepoit page. 
+Further extension to this app i have showed the app on the sharepoit page. For simple apps do we need to create an SPFX solution??
 
 ```````
 npm install
 npm start
+
 ``````
+
+Screen shot of the page in sharepoint (.\Capture_chelsea.JPG) 
+
