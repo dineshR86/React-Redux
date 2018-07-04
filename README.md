@@ -15,5 +15,5 @@ npm start
 
 ``````
 
-![Screen shot of the page in sharepoint] (./Capture_chelsea.png) 
+![Screen shot of the page in sharepoint] (Capture_chelsea.png) 
 
