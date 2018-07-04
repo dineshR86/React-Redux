@@ -1,7 +1,6 @@
 import React from 'react';
 
 const VideoDetails=({video})=>{
-    debugger;
     if(!video){
         return <div>Loading videos</div>
     }
